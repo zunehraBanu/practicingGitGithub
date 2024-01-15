@@ -1,1 +1,2 @@
 Remember, Git provides a powerful way to track and manage changes in your code, facilitating collaboration and maintaining a clean development history.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.

@@ -1,1 +1,1 @@
-Git is a distributed version control system that helps you manage and track changes in your code.
+Git is a distributed version control system that helps you manage and track changes in your code. Useful link for Git: https://www.w3schools.com/git/

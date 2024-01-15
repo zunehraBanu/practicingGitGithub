@@ -1,1 +1,29 @@
 Git is a distributed version control system enabling users to manage code changes through repositories, commits, branches, cloning, pulling, pushing, merging, pull requests, and remotes, fostering collaboration and efficient code development."
+
+Repository (Repo):
+A repository is like a project folder that contains all the files and the history of changes.
+You can create a new repository or clone an existing one.
+
+Commit:
+A commit is a snapshot of changes made to the code at a specific point in time.
+It's a way to save your work and create a point that you can revert to later if needed.
+
+Branch:
+A branch is a parallel version of the code. You can create branches to work on new features or bug fixes without affecting the main codebase.
+Once changes are tested and complete, they can be merged back into the main branch.
+
+Clone:
+Cloning a repository means creating a local copy on your machine. It allows you to work on the code independently.
+
+Pull and Push:
+Pull is used to fetch changes from a remote repository to your local machine.
+Push is used to upload your local changes to the remote repository.
+
+Merge:
+Merging combines changes from different branches. It's often used to integrate features developed in separate branches.
+
+Pull Request (PR):
+A pull request is a request to merge changes from one branch into another. It's a common practice for collaboration in team projects.
+
+Remote:
+A remote is a version of your repository that is hosted on the internet or another network. GitHub, GitLab, and Bitbucket are popular hosting services. 
