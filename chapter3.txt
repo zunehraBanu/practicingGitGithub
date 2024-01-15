@@ -1,0 +1,1 @@
+Git is a distributed version control system enabling users to manage code changes through repositories, commits, branches, cloning, pulling, pushing, merging, pull requests, and remotes, fostering collaboration and efficient code development."
